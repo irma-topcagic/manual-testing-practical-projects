@@ -1,6 +1,7 @@
 # Booking flight proceeds without validation when "From" or "To" fields are left unselected
 
 **Related Jira issue:** FBA-2
+
 **Priority:** Medium
 
 ## Steps to reproduce

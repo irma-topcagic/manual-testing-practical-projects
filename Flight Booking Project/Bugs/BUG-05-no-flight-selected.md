@@ -1,6 +1,7 @@
 # Booking a flight proceeds when no flight is selected
 
 **Related Jira issue:** FBA-5
+
 **Priority:** High
 
 ## Steps to reproduce

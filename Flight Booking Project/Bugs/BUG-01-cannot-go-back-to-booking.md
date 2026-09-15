@@ -1,6 +1,7 @@
 # Booking Flight — User can't go back to booking page
 
 **Related Jira issue:** FBA-1
+
 **Priority:** Low
 
 ## Steps to reproduce

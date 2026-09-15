@@ -1,6 +1,7 @@
 # Booking Flight → Passenger Details form accepts numeric values in First name and Last name fields without validation
 
 **Related Jira issue:** FBA-3
+
 **Priority:** Low
 
 ## Steps to reproduce

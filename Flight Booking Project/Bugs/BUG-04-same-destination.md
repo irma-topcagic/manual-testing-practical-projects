@@ -1,6 +1,7 @@
 # Booking flight proceeds without validation when "From" and "To" destinations are the same
 
 **Related Jira issue:** FBA-4
+
 **Priority:** Medium
 
 ## Steps to reproduce
