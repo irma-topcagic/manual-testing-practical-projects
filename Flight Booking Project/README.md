@@ -1,11 +1,12 @@
 # Flight Booking Application — Manual Testing
 
-Manual testing project for the Flight Booking web application (travel.agileway.net), covering the full booking flow: flight selection, passenger details, and payment.
+Manual testing project for the Flight Booking web application ([travel.agileway.net](http://travel.agileway.net)), covering the full booking flow: flight selection, passenger details, and payment.
 
 ## Test Summary
 
 | Metric | Value |
 |---|---|
+| Application under test | [travel.agileway.net](http://travel.agileway.net) |
 | Total test cases | 23 |
 | Passed | 11 |
 | Failed | 12 |
@@ -13,14 +14,12 @@ Manual testing project for the Flight Booking web application (travel.agileway.n
 | Test tool used | Jira + Zephyr Scale |
 | Test cycle | Version 1.0 (FBA-R1) |
 
-
 ## Scope
 
 The following screens/flows were tested:
 - **Select Flight** — trip type, destination selection, date selection, flight selection
 - **Passenger Details** — passenger name input
 - **Pay by Credit Card** — card type, card details, expiry, payment confirmation
-
 
 ## Key Findings
 
