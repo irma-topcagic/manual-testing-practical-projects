@@ -6,7 +6,7 @@ Manual testing project for the Flight Booking web application (travel.agileway.n
 
 | Metric | Value |
 |---|---|
-| Total test cases | 28 |
+| Total test cases | 23 |
 | Passed | 11 |
 | Failed | 12 |
 | Bugs | 11 |
