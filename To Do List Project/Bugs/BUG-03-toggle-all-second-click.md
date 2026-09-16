@@ -18,7 +18,7 @@ Each click on the toggle-all arrow should consistently switch between "all compl
 
 The 2nd click is non-functional / redundant.
 
-## Priority
+## Severity
 Medium
 
 ## Environment

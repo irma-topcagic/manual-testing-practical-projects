@@ -13,7 +13,7 @@ The page should automatically scroll to the top when a filter (Active/Completed)
 ## Actual
 The page stays at the same scroll position — it does not scroll to the top after applying the filter.
 
-## Priority
+## Severity
 Low
 
 ## Environment

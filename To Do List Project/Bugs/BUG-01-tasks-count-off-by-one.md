@@ -13,7 +13,7 @@ The number of tasks left is zero.
 ## Actual
 The number of tasks left is -1.
 
-## Priority
+## Severity
 High
 
 ## Environment
