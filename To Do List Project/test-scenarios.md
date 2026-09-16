@@ -1,7 +1,5 @@
 # To Do List — Test Scenarios
 
-Application under test: [todolist.james.am](http://todolist.james.am)
-
 ## Create
 
 - [x] Validate creating a task with valid alphabetic text

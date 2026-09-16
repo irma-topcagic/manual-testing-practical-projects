@@ -8,10 +8,10 @@
 3. Click the toggle-all arrow again (2nd click)
 4. Click the toggle-all arrow a third time (3rd click)
 
-## Expected
+## Expected result
 Each click on the toggle-all arrow should consistently switch between "all completed" and "all active" — clicking it should always toggle the state.
 
-## Actual
+## Actual result
 1st click: all tasks become completed
 2nd click: nothing happens (no state change)
 3rd click: all tasks become active again

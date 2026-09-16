@@ -7,10 +7,10 @@
 2. Scroll down the page (away from the top)
 3. Click on the "Active" or "Completed" filter
 
-## Expected
+## Expected result
 The page should automatically scroll to the top when a filter (Active/Completed) is applied, so the user immediately sees the filtered list from the beginning.
 
-## Actual
+## Actual result
 The page stays at the same scroll position — it does not scroll to the top after applying the filter.
 
 ## Severity

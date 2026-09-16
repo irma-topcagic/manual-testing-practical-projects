@@ -7,10 +7,10 @@
 2. Check three tasks as done
 3. Observe the number of tasks left
 
-## Expected
+## Expected result
 The number of tasks left is zero.
 
-## Actual
+## Actual result
 The number of tasks left is -1.
 
 ## Severity
